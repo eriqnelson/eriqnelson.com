@@ -38,12 +38,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Directories and files added by node
-node_modules
-npm-debug.log
-
 # Directories for distribution
 dist
+public/
 
 # Temp directories and files
 .tmp

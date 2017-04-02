@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
+baseurl = "http://eriqnelon.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hugo-material-lite"
+paginate = 6
+description = "A demo site for the material-lite theme"
+buildDrafts = true
+buildFuture = true
+
+[params]
+  TwitterUser = "eriqnelson"
+  FacebookUser = "eriq.geoffrey.nelson"
+  GooglePlusUser = "EriqNelson"
+  copyright = "&copy; Eriq Nelson 2017"
+  author = "Eriq Nelson"
+  description = "Blogging for Great Justice"
+  background = "./images/DSC00928.jpg"
+  bgcolor = "white"
+  primary = "grey"
+  accent = "red"
