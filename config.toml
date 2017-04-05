@@ -1,20 +1,37 @@
-baseurl = "http://eriqnelon.com"
+baseurl = "http://eriqnelson.com"
+title = "Eriq Nelson"
+theme = "dimension"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-material-lite"
-paginate = 6
-description = "A demo site for the material-lite theme"
-buildDrafts = true
-buildFuture = true
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
 
 [params]
-  TwitterUser = "eriqnelson"
-  FacebookUser = "eriq.geoffrey.nelson"
-  GooglePlusUser = "EriqNelson"
-  copyright = "&copy; Eriq Nelson 2017"
-  author = "Eriq Nelson"
-  description = "Blogging for Great Justice"
-  background = "./images/DSC00928.jpg"
-  bgcolor = "white"
-  primary = "grey"
-  accent = "red"
+  title = "Eriq Nelson"
+  description = '<!--[-->Opinions about Work and <!--]--><br />
+                <!--[-->Software<!--]-->'
+  logo = "fa-code"
+  copyright = "Eriq Nelson CC BY 4.0"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/EriqNelson"
+
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/eriqnelson"
+
+  [[params.social]]
+    medium = "keybase"
+    icon = "key"
+    link = "https://keybase.io/eriqnelson"
+
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Eriq Nelson"
