@@ -1,10 +1,7 @@
 +++
-date = "1979-07-11T17:52:45+02:00"
-description = ""
+title = "About"
+weight = 30
 draft = false
-image = ""
-title = "Hello there."
-
 +++
 
 I'm a software developer with a focus on operations. My background is in supply chain management, business process automation, design and accounting. I seek to bring my experience to software engineering and this is the place where I can reflect on how that's going.

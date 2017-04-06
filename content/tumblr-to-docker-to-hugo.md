@@ -1,10 +1,7 @@
 +++
-date = "2017-04-04T17:22:56-07:00"
-title = "tumblr to docker to hugo"
-description = ""
-image = ""
+title = "Tumblr To Hugo"
+weight = 20
 draft = false
-
 +++
 ## Here’s my Problem
 

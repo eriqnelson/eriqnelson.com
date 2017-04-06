@@ -1,9 +1,7 @@
 +++
-date = "1997-07-11T17:53:05+02:00"
-description = ""
-draft = false
-image = ""
 title = "contact"
+weight = 30
+draft = false
 
 +++
 {{< socialLinks >}}
